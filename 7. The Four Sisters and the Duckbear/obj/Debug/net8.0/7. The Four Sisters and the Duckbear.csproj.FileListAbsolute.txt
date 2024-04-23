@@ -1,0 +1,14 @@
+C:\Users\ericj\Projects\TheCSharpPlayerGuide\7. The Four Sisters and the Duckbear\bin\Debug\net8.0\7. The Four Sisters and the Duckbear.exe
+C:\Users\ericj\Projects\TheCSharpPlayerGuide\7. The Four Sisters and the Duckbear\bin\Debug\net8.0\7. The Four Sisters and the Duckbear.deps.json
+C:\Users\ericj\Projects\TheCSharpPlayerGuide\7. The Four Sisters and the Duckbear\bin\Debug\net8.0\7. The Four Sisters and the Duckbear.runtimeconfig.json
+C:\Users\ericj\Projects\TheCSharpPlayerGuide\7. The Four Sisters and the Duckbear\bin\Debug\net8.0\7. The Four Sisters and the Duckbear.dll
+C:\Users\ericj\Projects\TheCSharpPlayerGuide\7. The Four Sisters and the Duckbear\bin\Debug\net8.0\7. The Four Sisters and the Duckbear.pdb
+C:\Users\ericj\Projects\TheCSharpPlayerGuide\7. The Four Sisters and the Duckbear\obj\Debug\net8.0\7. The Four Sisters and the Duckbear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ericj\Projects\TheCSharpPlayerGuide\7. The Four Sisters and the Duckbear\obj\Debug\net8.0\7. The Four Sisters and the Duckbear.AssemblyInfoInputs.cache
+C:\Users\ericj\Projects\TheCSharpPlayerGuide\7. The Four Sisters and the Duckbear\obj\Debug\net8.0\7. The Four Sisters and the Duckbear.AssemblyInfo.cs
+C:\Users\ericj\Projects\TheCSharpPlayerGuide\7. The Four Sisters and the Duckbear\obj\Debug\net8.0\7. The Four Sisters and the Duckbear.csproj.CoreCompileInputs.cache
+C:\Users\ericj\Projects\TheCSharpPlayerGuide\7. The Four Sisters and the Duckbear\obj\Debug\net8.0\7. The Four Sisters and the Duckbear.dll
+C:\Users\ericj\Projects\TheCSharpPlayerGuide\7. The Four Sisters and the Duckbear\obj\Debug\net8.0\refint\7. The Four Sisters and the Duckbear.dll
+C:\Users\ericj\Projects\TheCSharpPlayerGuide\7. The Four Sisters and the Duckbear\obj\Debug\net8.0\7. The Four Sisters and the Duckbear.pdb
+C:\Users\ericj\Projects\TheCSharpPlayerGuide\7. The Four Sisters and the Duckbear\obj\Debug\net8.0\7. The Four Sisters and the Duckbear.genruntimeconfig.cache
+C:\Users\ericj\Projects\TheCSharpPlayerGuide\7. The Four Sisters and the Duckbear\obj\Debug\net8.0\ref\7. The Four Sisters and the Duckbear.dll
