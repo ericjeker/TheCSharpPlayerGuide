@@ -12,3 +12,4 @@ C:\Users\ericj\Projects\TheCSharpPlayerGuide\7. The Four Sisters and the Duckbea
 C:\Users\ericj\Projects\TheCSharpPlayerGuide\7. The Four Sisters and the Duckbear\obj\Debug\net8.0\7. The Four Sisters and the Duckbear.pdb
 C:\Users\ericj\Projects\TheCSharpPlayerGuide\7. The Four Sisters and the Duckbear\obj\Debug\net8.0\7. The Four Sisters and the Duckbear.genruntimeconfig.cache
 C:\Users\ericj\Projects\TheCSharpPlayerGuide\7. The Four Sisters and the Duckbear\obj\Debug\net8.0\ref\7. The Four Sisters and the Duckbear.dll
+C:\Users\ericj\Projects\TheCSharpPlayerGuide\7. The Four Sisters and the Duckbear\obj\Debug\net8.0\7. The Four Sisters and the Duckbear.sourcelink.json
