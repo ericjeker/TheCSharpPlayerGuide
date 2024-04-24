@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. The Four Sisters and the
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. The Thing Namer 3000", "4. The Thing Namer 3000\4. The Thing Namer 3000.csproj", "{E28F6071-3DE5-4CDB-A86F-E20DDEE5C28D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. The Defense of Consolas", "8. The Defense of Consolas\8. The Defense of Consolas.csproj", "{1FCF57BC-B188-4CD1-B832-2CAB04BF6F32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{E28F6071-3DE5-4CDB-A86F-E20DDEE5C28D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E28F6071-3DE5-4CDB-A86F-E20DDEE5C28D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E28F6071-3DE5-4CDB-A86F-E20DDEE5C28D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FCF57BC-B188-4CD1-B832-2CAB04BF6F32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FCF57BC-B188-4CD1-B832-2CAB04BF6F32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FCF57BC-B188-4CD1-B832-2CAB04BF6F32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FCF57BC-B188-4CD1-B832-2CAB04BF6F32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
