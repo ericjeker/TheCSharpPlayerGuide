@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. The Thing Namer 3000", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. The Defense of Consolas", "8. The Defense of Consolas\8. The Defense of Consolas.csproj", "{1FCF57BC-B188-4CD1-B832-2CAB04BF6F32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scratches", "Scratches\Scratches.csproj", "{33FAEB7C-D615-4FB4-BB21-DC2500C96807}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. The Replicator of DTo", "12. The Replicator of DTo\12. The Replicator of DTo.csproj", "{21443A10-6225-4794-A7F5-08298528473D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{1FCF57BC-B188-4CD1-B832-2CAB04BF6F32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FCF57BC-B188-4CD1-B832-2CAB04BF6F32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FCF57BC-B188-4CD1-B832-2CAB04BF6F32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33FAEB7C-D615-4FB4-BB21-DC2500C96807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33FAEB7C-D615-4FB4-BB21-DC2500C96807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33FAEB7C-D615-4FB4-BB21-DC2500C96807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33FAEB7C-D615-4FB4-BB21-DC2500C96807}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21443A10-6225-4794-A7F5-08298528473D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21443A10-6225-4794-A7F5-08298528473D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21443A10-6225-4794-A7F5-08298528473D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21443A10-6225-4794-A7F5-08298528473D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
